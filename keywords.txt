@@ -1,0 +1,16 @@
+#######################################
+# Syntax Coloring Map For SensorLDR
+####################################### 
+# Class
+#######################################
+
+SensorLDR	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+getLight	KEYWORD2
+turnOn		KEYWORD2
+turnOff		KEYWORD2
+isActive	KEYWORD2
